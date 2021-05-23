@@ -12,7 +12,7 @@
 - 📫 Reach me: [Twitter](http://twitter.com/shuvro_008)
 - ⚡️ Fun fact: I'm a huge fan of Stranger Things
 
-In my free time I've built and maintain various open-source projects of my own like:
+In my free time I've built and contribute various open-source projects of my own like:
 
 - [Outlay](https://github.com/shuvroroy/outlay) - An expense tracker app build with TALL stack.
 - [LivewireUI Spotlight](https://github.com/livewire-ui/spotlight) - Livewire component that brings Spotlight/Alfred-like functionality to your Laravel application.
