@@ -8,7 +8,7 @@
 - ⚙️ I use daily: `.php`, `.js`, `.go`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **laravel**, **symfony**, **vue**, **react**, **tailwindcss** **typescript** **livewire** **inertia**
+- 💬 Ping me about **laravel**, **symfony**, **vue**, **react**, **tailwindcss**, **typescript**, **livewire**, **inertia**
 - 📫 Reach me: [Twitter](http://twitter.com/shuvro_008)
 - ⚡️ Fun fact: I'm a huge fan of Stranger Things
 
