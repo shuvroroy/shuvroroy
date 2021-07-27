@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [Eskimi DSP](https://www.eskimi.com) 
+- 🏢 I'm currently working at [Eskimi](https://www.eskimi.com) 
 - ⚙️ I use daily: `.php`, `.js`, `.go`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
