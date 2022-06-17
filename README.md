@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi nerds 👋
 
-#### I'm [Shuvro](https://shuvroroy.github.io). I'm a Senior Full-Stack Developer working in Dhaka, Bangladesh
+#### My name is Shuvro Roy, and I'am a Senior Full Stack Developer from Dhaka, Bangladesh.
 
 ##### BIO
 
@@ -8,7 +8,7 @@
 - ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **laravel**, **symfony**, **vue**, **react**, **tailwindcss**, **typescript**, **livewire**, **inertia**
+- 💬 Ping me about **laravel**, **symfony**, **vue**, **react**, **tailwindcss**, **alpinejs**, **livewire**, **inertia**
 - 📫 Reach me: [Twitter](http://twitter.com/shuvro_008)
 - ⚡️ Fun fact: I'm a huge fan of Stranger Things
 
