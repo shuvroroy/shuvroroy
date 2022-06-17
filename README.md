@@ -1,6 +1,6 @@
 ### Hi nerds 👋
 
-#### My name is Shuvro Roy, and I'am a Senior Full Stack Developer from Dhaka, Bangladesh.
+#### My name is Shuvro Roy, and I'm a Senior Full Stack Developer from Dhaka, Bangladesh.
 
 ##### BIO
 
