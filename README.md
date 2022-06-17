@@ -14,7 +14,7 @@
 
 In my free time I've built and maintain various open-source projects of my own like:
 
-- [Filament Demo](https://github.com/laravel-filament/demo) - A demo app to demonstrate how easily you can build complex application using Filament.
+- [Filament Demo](https://github.com/laravel-filament/demo) - An official demo app to demonstrate how easily you can build complex application using Filament.
 - [Outlay](https://github.com/shuvroroy/outlay) - An expense tracker app build with TALL stack.
 - [Spotlight](https://github.com/wire-elements/spotlight) - Livewire component that brings Spotlight/Alfred-like functionality to your Laravel application.
 - [Modal](https://github.com/wire-elements/modal) - Livewire component that provides you with a modal that supports multiple child modals while maintaining state.
