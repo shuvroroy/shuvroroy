@@ -1,10 +1,10 @@
 ### Hi nerds 👋
 
-#### My name is Shuvro Roy, and I'm a Senior Full Stack Developer from Dhaka, Bangladesh.
+#### My name is Shuvro Roy and I'm a Senior Software Engineer from Dhaka, Bangladesh.
 
 ##### BIO
 
-- 🏢 I'm currently working at [Eskimi](https://www.eskimi.com) 
+- 🏢 I'm currently working at [MailerLite](https://www.mailerlite.com) 
 - ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
