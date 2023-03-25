@@ -4,11 +4,11 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [MailerLite](https://www.mailerlite.com) 
+- 🏢 I'm currently working at [MailerLite](https://www.mailerlite.com)
 - ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **laravel**, **symfony**, **vue**, **react**, **tailwindcss**, **alpinejs**, **livewire**, **inertia**
+- 💬 Ping me about [Laravel](https://laravel.com), [Symfony](https://symfony.com), [Vue](https://vuejs.org), [React](https://react.dev), [Tailwind CSS](https://tailwindcss.com), [Alpine.js](https://alpinejs.dev), [Livewire](https://laravel-livewire.com), [Inertia](https://inertiajs.com)
 - 📫 Reach me: [Twitter](http://twitter.com/shuvro_008)
 - ⚡️ Fun fact: I'm a huge fan of Stranger Things
 
