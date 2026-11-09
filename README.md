@@ -62,6 +62,14 @@ Open-source projects I've contributed to, grouped by programming language and so
 <p><a href="https://github.com/transact-rs/sqlx">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/transact-rs/sqlx/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/transact-rs/sqlx/pulls?q=is%3Apr+is%3Amerged+author%3Ashuvroroy">1 merged PR</a></p>
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>Show / hide 9 more Rust repositories</summary>
+
+<table width="100%">
+<tbody>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/rolldown/rolldown"><img src="https://avatars.githubusercontent.com/u/94954945?v=4&amp;s=96" width="44" height="44" align="right" alt="rolldown" /></a>
@@ -134,10 +142,12 @@ Open-source projects I've contributed to, grouped by programming language and so
 <p>Rust SDK for MailerLite</p>
 <p><a href="https://github.com/mailerlite/mailerlite-rust">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/mailerlite/mailerlite-rust/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/mailerlite/mailerlite-rust/pulls?q=is%3Apr+is%3Amerged+author%3Ashuvroroy">10 merged PRs</a></p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="1000" valign="top"></td>
 </tr>
 </tbody>
 </table>
+
+</details>
 
 [Back to languages](#open-source-contributions)
 
@@ -179,6 +189,14 @@ Open-source projects I've contributed to, grouped by programming language and so
 <p><a href="https://github.com/symfony/symfony">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/symfony/symfony/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/symfony/symfony/pulls?q=is%3Apr+is%3Amerged+author%3Ashuvroroy">4 merged PRs</a></p>
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>Show / hide 67 more PHP repositories</summary>
+
+<table width="100%">
+<tbody>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/livewire/livewire"><img src="https://avatars.githubusercontent.com/u/51960834?v=4&amp;s=96" width="44" height="44" align="right" alt="livewire" /></a>
@@ -715,10 +733,12 @@ Open-source projects I've contributed to, grouped by programming language and so
 <p>An open source project I have contributed to.</p>
 <p><a href="https://github.com/xtend-laravel/xtend-lunar">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/xtend-laravel/xtend-lunar/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/xtend-laravel/xtend-lunar/pulls?q=is%3Apr+is%3Amerged+author%3Ashuvroroy">1 merged PR</a></p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="1000" valign="top"></td>
 </tr>
 </tbody>
 </table>
+
+</details>
 
 [Back to languages](#open-source-contributions)
 
@@ -760,6 +780,14 @@ Open-source projects I've contributed to, grouped by programming language and so
 <p><a href="https://github.com/tighten/ziggy">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/tighten/ziggy/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/tighten/ziggy/pulls?q=is%3Apr+is%3Amerged+author%3Ashuvroroy">2 merged PRs</a></p>
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>Show / hide 5 more JavaScript repositories</summary>
+
+<table width="100%">
+<tbody>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/laravel/breeze"><img src="https://avatars.githubusercontent.com/u/958072?v=4&amp;s=96" width="44" height="44" align="right" alt="laravel" /></a>
@@ -800,10 +828,12 @@ Open-source projects I've contributed to, grouped by programming language and so
 <p>A nova package for dynamically add custom placeholders component in various section of views.</p>
 <p><a href="https://github.com/shuvroroy/nova-dynamic-views">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/nova-dynamic-views/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/nova-dynamic-views/pulls?q=is%3Apr+is%3Amerged+author%3Ashuvroroy">1 merged PR</a></p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="1000" valign="top"></td>
 </tr>
 </tbody>
 </table>
+
+</details>
 
 [Back to languages](#open-source-contributions)
 
@@ -821,7 +851,7 @@ Open-source projects I've contributed to, grouped by programming language and so
 <p>Free, open-source native database client for macOS, Linux, iPhone and iPad.</p>
 <p><a href="https://github.com/TableProApp/TablePro">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/TableProApp/TablePro/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/TableProApp/TablePro/pulls?q=is%3Apr+is%3Amerged+author%3Ashuvroroy">3 merged PRs</a></p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="1000" valign="top"></td>
 </tr>
 </tbody>
 </table>
