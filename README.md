@@ -690,7 +690,7 @@ Open-source projects I've contributed to, grouped by programming language and so
 <h3><a href="https://github.com/shuvroroy/outlay">shuvroroy / <strong>outlay</strong></a></h3>
 <p><code>PHP</code> &nbsp; <code>Own project</code> &nbsp; <a href="https://github.com/shuvroroy/outlay/stargazers">⭐ 30</a></p>
 <p>Outlay is an expense tracker app build with TALL stack.</p>
-<p><a href="https://github.com/shuvroroy/outlay">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/outlay/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/outlay/commits/?author=shuvroroy">My commits</a></p>
+<p><a href="https://github.com/shuvroroy/outlay">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/outlay/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/outlay/commits/?author=shuvroroy">11 commits</a></p>
 </td>
 </tr>
 <tr>
@@ -699,14 +699,14 @@ Open-source projects I've contributed to, grouped by programming language and so
 <h3><a href="https://github.com/shuvroroy/laravel-jwt-api">shuvroroy / <strong>laravel-jwt-api</strong></a></h3>
 <p><code>PHP</code> &nbsp; <code>Own project</code> &nbsp; <a href="https://github.com/shuvroroy/laravel-jwt-api/stargazers">⭐ 9</a></p>
 <p>An open source project I have contributed to.</p>
-<p><a href="https://github.com/shuvroroy/laravel-jwt-api">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-jwt-api/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-jwt-api/commits/?author=shuvroroy">My commits</a></p>
+<p><a href="https://github.com/shuvroroy/laravel-jwt-api">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-jwt-api/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-jwt-api/commits/?author=shuvroroy">6 commits</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/shuvroroy/laravel-passport-api"><img src="https://avatars.githubusercontent.com/u/21066418?u=ef08bed3b3e6a48b97510724ed6b8253e07c1e2e&amp;v=4&amp;s=96" width="44" height="44" align="right" alt="shuvroroy" /></a>
 <h3><a href="https://github.com/shuvroroy/laravel-passport-api">shuvroroy / <strong>laravel-passport-api</strong></a></h3>
 <p><code>PHP</code> &nbsp; <code>Own project</code> &nbsp; <a href="https://github.com/shuvroroy/laravel-passport-api/stargazers">⭐ 9</a></p>
 <p>An open source project I have contributed to.</p>
-<p><a href="https://github.com/shuvroroy/laravel-passport-api">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-passport-api/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-passport-api/commits/?author=shuvroroy">My commits</a></p>
+<p><a href="https://github.com/shuvroroy/laravel-passport-api">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-passport-api/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-passport-api/commits/?author=shuvroroy">9 commits</a></p>
 </td>
 </tr>
 <tr>
@@ -715,7 +715,7 @@ Open-source projects I've contributed to, grouped by programming language and so
 <h3><a href="https://github.com/shuvroroy/nova-tabs">shuvroroy / <strong>nova-tabs</strong></a></h3>
 <p><code>PHP</code> &nbsp; <code>MIT</code> &nbsp; <code>Own project</code> &nbsp; <a href="https://github.com/shuvroroy/nova-tabs/stargazers">⭐ 9</a></p>
 <p>A nova package which allows you to create tabs in your resource detail &amp; form page.</p>
-<p><a href="https://github.com/shuvroroy/nova-tabs">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/nova-tabs/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/nova-tabs/commits/?author=shuvroroy">My commits</a></p>
+<p><a href="https://github.com/shuvroroy/nova-tabs">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/nova-tabs/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/nova-tabs/commits/?author=shuvroroy">7 commits</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/akr4m/keyguard"><img src="https://avatars.githubusercontent.com/u/17238742?u=7bf74626f6949c974b0ce44544ed99db4a852945&amp;v=4&amp;s=96" width="44" height="44" align="right" alt="akr4m" /></a>
@@ -731,14 +731,14 @@ Open-source projects I've contributed to, grouped by programming language and so
 <h3><a href="https://github.com/shuvroroy/laravel-vue-spa">shuvroroy / <strong>laravel-vue-spa</strong></a></h3>
 <p><code>PHP</code> &nbsp; <code>Own project</code> &nbsp; <a href="https://github.com/shuvroroy/laravel-vue-spa/stargazers">⭐ 3</a></p>
 <p>A Laravel-Vue SPA starter project template.</p>
-<p><a href="https://github.com/shuvroroy/laravel-vue-spa">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-vue-spa/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-vue-spa/commits/?author=shuvroroy">My commits</a></p>
+<p><a href="https://github.com/shuvroroy/laravel-vue-spa">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-vue-spa/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/shuvroroy/laravel-vue-spa/commits/?author=shuvroroy">12 commits</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/alpha3x/key-validator"><img src="https://avatars.githubusercontent.com/u/167770283?v=4&amp;s=96" width="44" height="44" align="right" alt="alpha3x" /></a>
 <h3><a href="https://github.com/alpha3x/key-validator">alpha3x / <strong>key-validator</strong></a></h3>
 <p><code>PHP</code> &nbsp; <code>MIT</code> &nbsp; <a href="https://github.com/alpha3x/key-validator/stargazers">⭐ 1</a></p>
 <p>This package will validate API keys &amp; secrets, Tokens, HMAC.</p>
-<p><a href="https://github.com/alpha3x/key-validator">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/alpha3x/key-validator/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/alpha3x/key-validator/commits/?author=shuvroroy">My commits</a></p>
+<p><a href="https://github.com/alpha3x/key-validator">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/alpha3x/key-validator/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/alpha3x/key-validator/commits/?author=shuvroroy">1 commit</a></p>
 </td>
 </tr>
 <tr>
@@ -833,7 +833,7 @@ Open-source projects I've contributed to, grouped by programming language and so
 <h3><a href="https://github.com/laravel/react-starter-kit">laravel / <strong>react-starter-kit</strong></a></h3>
 <p><code>TypeScript</code> &nbsp; <a href="https://github.com/laravel/react-starter-kit/stargazers">⭐ 900</a></p>
 <p>An open source project I have contributed to.</p>
-<p><a href="https://github.com/laravel/react-starter-kit">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/laravel/react-starter-kit/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/laravel/react-starter-kit/commits/?author=shuvroroy">My commits</a></p>
+<p><a href="https://github.com/laravel/react-starter-kit">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/laravel/react-starter-kit/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/laravel/react-starter-kit/commits/?author=shuvroroy">1 commit</a></p>
 </td>
 </tr>
 <tr>
@@ -842,7 +842,7 @@ Open-source projects I've contributed to, grouped by programming language and so
 <h3><a href="https://github.com/laravel/vue-starter-kit">laravel / <strong>vue-starter-kit</strong></a></h3>
 <p><code>Vue</code> &nbsp; <a href="https://github.com/laravel/vue-starter-kit/stargazers">⭐ 656</a></p>
 <p>An open source project I have contributed to.</p>
-<p><a href="https://github.com/laravel/vue-starter-kit">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/laravel/vue-starter-kit/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/laravel/vue-starter-kit/commits/?author=shuvroroy">My commits</a></p>
+<p><a href="https://github.com/laravel/vue-starter-kit">GitHub</a> &nbsp; · &nbsp; <a href="https://github.com/laravel/vue-starter-kit/graphs/contributors">Contributors</a> &nbsp; · &nbsp; <a href="https://github.com/laravel/vue-starter-kit/commits/?author=shuvroroy">1 commit</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/shuvroroy/nova-dynamic-views"><img src="https://avatars.githubusercontent.com/u/21066418?u=ef08bed3b3e6a48b97510724ed6b8253e07c1e2e&amp;v=4&amp;s=96" width="44" height="44" align="right" alt="shuvroroy" /></a>
